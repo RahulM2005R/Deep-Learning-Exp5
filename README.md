@@ -126,11 +126,9 @@ plt.show()
 
 ---
 
-**Predictions**
+**Predicted Value**
 
 <img width="441" height="49" alt="image" src="https://github.com/user-attachments/assets/ebd75e5a-8cf4-4ca8-af56-e54741153b10" />
 
-
-**RESULT**
-
-Include your result here
+## **RESULT**
+Thus, a reccurrent neural network for Stock Price Prediction developed successfully.
