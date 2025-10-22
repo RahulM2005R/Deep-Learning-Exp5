@@ -1,4 +1,4 @@
-# Deep-Learning-Exp5
+# Exp5:Recurrent Neural Network model for Stock Price Prediction
 
 ## **AIM:**
 
