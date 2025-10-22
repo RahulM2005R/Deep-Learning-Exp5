@@ -1,4 +1,4 @@
-# Exp5:Recurrent Neural Network model for Stock Price Prediction
+# Exp-5: Recurrent Neural Network model for Stock Price Prediction
 
 ## **AIM:**
 
